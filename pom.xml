@@ -12,6 +12,7 @@
 	<artifactId>makemytrip</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
+	<packaging>war</packaging>
 	<description/>
 	<url/>
 	<licenses>
